@@ -93,12 +93,12 @@ knitted-logo-style-skill/
 ├─ COMMERCIAL-LICENSE.md
 └─ assets/
    └─ examples/
-      ├─ case-1.svg
-      ├─ case-2.svg
-      ├─ case-3.svg
-      ├─ case-4.svg
-      ├─ case-5.svg
-      └─ case-6.svg
+      ├─ case-1.png
+      ├─ case-2.png
+      ├─ case-3.png
+      ├─ case-4.png
+      ├─ case-5.png
+      └─ case-6.png
 ```
 
 ---

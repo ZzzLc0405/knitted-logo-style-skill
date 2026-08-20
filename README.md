@@ -109,11 +109,11 @@ knitted-logo-style-skill/
 
 <p align="center">
   <img src="./assets/examples/case-1.png" width="32%" alt="Example 1">
-  <img src="./assets/examples/case-2.png" width="32%" alt="Example 2">
+  <img src="./assets/examples/case-9.png" width="32%" alt="Example 2">
   <img src="./assets/examples/case-3.png" width="32%" alt="Example 3">
   <br>
   <img src="./assets/examples/case-4.png" width="32%" alt="Example 4">
-  <img src="./assets/examples/case-5.png" width="32%" alt="Example 5">
+  <img src="./assets/examples/case-8.png" width="32%" alt="Example 5">
   <img src="./assets/examples/case-6.png" width="32%" alt="Example 6">
 </p>
 

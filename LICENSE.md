@@ -3,7 +3,7 @@
 Version 1.0  
 Effective Date: August 20, 2026
 
-Copyright © 2026 AM.  
+Copyright © 2026 ZzzLc0405  
 All rights reserved.
 
 Contact: ccletterbox@163.com  

@@ -137,11 +137,7 @@ knitted-logo-style-skill/
 - Replace the six placeholder showcase files with your real output examples.
 
 ---
-帮作者充点Token（coffee）
-<p align="center">
-  <img src="./assets/pay/AliPay.jpg" width="32%">
-  <img src="./assets/pay/WechatPay.jpg" width="32%">
-</p>
+
 ## 📜 License
 
 This repository is provided under the terms described in **[LICENSE.md](./LICENSE.md)**.

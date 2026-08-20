@@ -142,3 +142,9 @@ knitted-logo-style-skill/
 
 本仓库默认遵循 **[LICENSE.md](./LICENSE.md)** 中的条款。  
 若需商业使用，请查看 **[COMMERCIAL-LICENSE.md](./COMMERCIAL-LICENSE.md)**。
+
+帮作者充点Token（coffee）
+<p align="center">
+  <img src="./assets/help/AliPay.jpg" width="32%">
+  <img src="./assets/help/WechatPay.jpg" width="32%">
+</p>
